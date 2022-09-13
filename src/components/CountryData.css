@@ -1,0 +1,36 @@
+#selection_Area{
+    height: 192px;
+    padding-bottom: 5px;
+}
+#Graph_Area{
+    margin-top: 14px;
+    height: 497px; 
+}
+#country{
+    width: 440px;
+    border-radius: 5px;
+    height: 44px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+#PieChart{
+    margin-left: 32px;
+}
+#dataGrid{
+    height:80px;
+}
+#Graph_Area2{
+    margin-top: 7px;
+    height: 497px; 
+}
+#flagg{
+    width: 155px;
+    height: 81px;
+}
+#countrydataheading
+{
+    margin-top: 6px;
+}
+canvas{
+    height: 400px;
+}
